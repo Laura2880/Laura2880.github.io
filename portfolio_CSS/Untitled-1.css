@@ -344,7 +344,7 @@ footer{
 }
 
 .form-popup{
-    border: 3px solid silver;
+    border: 3px solid rgb(39, 33, 82);
     z-index: 8;
     display: none;
     position: fixed;
@@ -355,7 +355,7 @@ footer{
 .form-container{
     max-width: 49vw;
     padding: 1vw;
-    background-color: rgb(8, 39, 20);
+    background-color: rgb(240, 232, 232)
 }
 
 .fade {
@@ -365,9 +365,9 @@ footer{
 .form-container input[type=text]{
     width: 100%;
     padding: 30px;
-    margin: 10px 5px 3.5px 5px;
-    border: darkgrey;
-    background: gainsboro;
+    margin: 10px 5px 10px 5px;
+    border: rgb(39, 33, 82);
+    background: #22574a73;
     font-size: 1vw;
 }
 
