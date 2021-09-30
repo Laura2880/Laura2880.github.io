@@ -267,7 +267,7 @@ footer{
 }
 
 .active, .dot:hover{
-    background-color: rgb(8, 39, 20);k;
+    background-color: rgb(8, 39, 20);
 }
 
 .fade {
@@ -355,15 +355,18 @@ footer{
 .form-container{
     max-width: 49vw;
     padding: 1vw;
-    background-color: rgb(205, 230, 217);
+    background-color: rgb(8, 39, 20);
+}
+
+.fade {
 }
 
 
 .form-container input[type=text]{
     width: 100%;
-    padding: 93vw;
-    margin: 6vw 0 .6vw 0;
-    border: none;
+    padding: 30px;
+    margin: 10px 5px 3.5px 5px;
+    border: darkgrey;
     background: gainsboro;
     font-size: 1vw;
 }
